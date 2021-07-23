@@ -1,1 +1,2 @@
-基于java中的DatagramPacket，DatagramPacket来实现UDP传输
+基于java中的DatagramPacket，DatagramPacket来实现UDP传输，数据传输校验，Germlin函数用于模仿传输过程中数据出错
+时间仓促，代码过于冗余，健壮性不高
